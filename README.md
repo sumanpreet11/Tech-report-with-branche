@@ -8,15 +8,15 @@ What is Ai PC? An AI PC is a laptop or desktop computer designed to leverage art
 
 Generative AI on Your PC: Creative and Productive Power:
 
--Language Models
+ -Language Models
 
 - Personalized AI Assistants
 
--Image Generation
+ -Image Generation
 
-- Advanced Search With Natural Language
+ - Advanced Search With Natural Language
 
--Real-Time Captioning and Translation
+ -Real-Time Captioning and Translation
 
 Additional link:
 https://www.youtube.com/watch?v=nVyD6THcvDQ&pp=ygUed2hhdCBpcyBhaSBwYyBhbmQgaXRzIGZlYXR1cmVz
