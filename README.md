@@ -12,3 +12,8 @@ https://www.reuters.com/technology/what-are-ai-pcs-2024-05-21/?utm_source=chatgp
 
 https://www.youtube.com/watch?v=Myg4EP3AU0E
 
+How AI Will Reshape Your Next Computer?
+
+AI PCs use NPUs to handle AI tasks more efficiently, reducing the load on the CPU and improving overall system performance
+
+https://www.youtube.com/watch?v=O5egonAaHts
