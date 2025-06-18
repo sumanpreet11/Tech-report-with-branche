@@ -20,5 +20,8 @@ Generative AI on Your PC: Creative and Productive Power:
 
 Additional link:
 https://www.youtube.com/watch?v=nVyD6THcvDQ&pp=ygUed2hhdCBpcyBhaSBwYyBhbmQgaXRzIGZlYXR1cmVz
+
+
 https://www.reuters.com/technology/what-are-ai-pcs-2024-05-21/?utm_source=chatgpt.com
-https://www.reuters.com/technology/what-are-ai-pcs-2024-05-21/?utm_source=chatgpt.com
+
+https://www.youtube.com/watch?v=Myg4EP3AU0E
