@@ -6,6 +6,11 @@ What is Ai PC? An AI PC is a laptop or desktop computer designed to leverage art
 
 (NPU) Neural Processing Unit — an efficient on-device chip optimized for AI tasks like inference, image/video generation, translation, transcription, etc. These can deliver tens of TOPS (trillion operations per second) of AI compute.
 
+Generative AI on Your PC: Creative and Productive Power:
+-Language Models
+-Image Generation
+-Real-Time Captioning and Translation
+
 Additional link:
 https://www.youtube.com/watch?v=nVyD6THcvDQ&pp=ygUed2hhdCBpcyBhaSBwYyBhbmQgaXRzIGZlYXR1cmVz
 https://www.reuters.com/technology/what-are-ai-pcs-2024-05-21/?utm_source=chatgpt.com
